@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="FilterBuilder class">
+    <HelpKINode Title="FilterBuilder Class" Url="html/T_Resample_FilterBuilder.htm" />
+    <HelpKINode Title="about FilterBuilder class" Url="html/T_Resample_FilterBuilder.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Resample_FilterBuilder.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FilterBuilder.HammingFilter method" Url="html/M_Resample_FilterBuilder_HammingFilter.htm" />
+  <HelpKINode Title="FilterBuilder.HammingWindow method" Url="html/M_Resample_FilterBuilder_HammingWindow.htm" />
+  <HelpKINode Title="FilterBuilder.KaiserFilter method" Url="html/M_Resample_FilterBuilder_KaiserFilter.htm" />
+  <HelpKINode Title="FilterBuilder.KaiserWindow method" Url="html/M_Resample_FilterBuilder_KaiserWindow.htm" />
+  <HelpKINode Title="FilterBuilder.LowpassSinc method" Url="html/M_Resample_FilterBuilder_LowpassSinc.htm" />
+  <HelpKINode Title="FilterBuilder.MBessel0 method" Url="html/M_Resample_FilterBuilder_MBessel0.htm" />
+  <HelpKINode Title="FilterBuilder.Sinc method" Url="html/M_Resample_FilterBuilder_Sinc.htm" />
+  <HelpKINode Title="FilterBuilder.WindowedSinc method" Url="html/M_Resample_FilterBuilder_WindowedSinc.htm" />
+  <HelpKINode Title="HammingFilter method" Url="html/M_Resample_FilterBuilder_HammingFilter.htm" />
+  <HelpKINode Title="HammingWindow method" Url="html/M_Resample_FilterBuilder_HammingWindow.htm" />
+  <HelpKINode Title="KaiserFilter method" Url="html/M_Resample_FilterBuilder_KaiserFilter.htm" />
+  <HelpKINode Title="KaiserWindow method" Url="html/M_Resample_FilterBuilder_KaiserWindow.htm" />
+  <HelpKINode Title="LowpassSinc method" Url="html/M_Resample_FilterBuilder_LowpassSinc.htm" />
+  <HelpKINode Title="MBessel0 method" Url="html/M_Resample_FilterBuilder_MBessel0.htm" />
+  <HelpKINode Title="Resample method" Url="html/M_Resample_Resampler_Resample.htm" />
+  <HelpKINode Title="Resample namespace" Url="html/N_Resample.htm" />
+  <HelpKINode Title="Resample.FilterBuilder class" Url="html/T_Resample_FilterBuilder.htm" />
+  <HelpKINode Title="Resample.Resampler class" Url="html/T_Resample_Resampler.htm" />
+  <HelpKINode Title="ResampleContinuous method" Url="html/M_Resample_Resampler_ResampleContinuous.htm" />
+  <HelpKINode Title="Resampler class">
+    <HelpKINode Title="Resampler Class" Url="html/T_Resample_Resampler.htm" />
+    <HelpKINode Title="about Resampler class" Url="html/T_Resample_Resampler.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Resample_Resampler__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Resample_Resampler.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Resampler.Resample method" Url="html/M_Resample_Resampler_Resample.htm" />
+  <HelpKINode Title="Resampler.ResampleContinuous method" Url="html/M_Resample_Resampler_ResampleContinuous.htm" />
+  <HelpKINode Title="Resampler.Resampler constructor" Url="html/Overload_Resample_Resampler__ctor.htm" />
+  <HelpKINode Title="Resampler.ResetFilter method" Url="html/M_Resample_Resampler_ResetFilter.htm" />
+  <HelpKINode Title="ResetFilter method" Url="html/M_Resample_Resampler_ResetFilter.htm" />
+  <HelpKINode Title="Sinc method" Url="html/M_Resample_FilterBuilder_Sinc.htm" />
+  <HelpKINode Title="WindowedSinc method" Url="html/M_Resample_FilterBuilder_WindowedSinc.htm" />
+</HelpKI>

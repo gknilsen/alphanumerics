@@ -1,0 +1,15 @@
+C:\Users\Geir\Documents\PhaseVocoder\Resample\VS2013-project\Resample\bin\Debug\Resample.dll
+C:\Users\Geir\Documents\PhaseVocoder\Resample\VS2013-project\Resample\bin\Debug\Resample.pdb
+C:\Users\Geir\Documents\PhaseVocoder\Resample\VS2013-project\Resample\obj\Debug\Resample.csprojResolveAssemblyReference.cache
+C:\Users\Geir\Documents\PhaseVocoder\Resample\VS2013-project\Resample\obj\Debug\Resample.dll
+C:\Users\Geir\Documents\PhaseVocoder\Resample\VS2013-project\Resample\obj\Debug\Resample.pdb
+C:\Users\GK\Documents\repos\alphanumerics\PhaseVocoder\Resample\VS2013-project\Resample\bin\Debug\Resample.dll
+C:\Users\GK\Documents\repos\alphanumerics\PhaseVocoder\Resample\VS2013-project\Resample\bin\Debug\Resample.pdb
+C:\Users\GK\Documents\repos\alphanumerics\PhaseVocoder\Resample\VS2013-project\Resample\obj\Debug\Resample.csprojResolveAssemblyReference.cache
+C:\Users\GK\Documents\repos\alphanumerics\PhaseVocoder\Resample\VS2013-project\Resample\obj\Debug\Resample.dll
+C:\Users\GK\Documents\repos\alphanumerics\PhaseVocoder\Resample\VS2013-project\Resample\obj\Debug\Resample.pdb
+C:\Users\Øyvind\Documents\Alphanumerics\alphanumerics\PhaseVocoder\Resample\VS2013-project\Resample\bin\Debug\Resample.dll
+C:\Users\Øyvind\Documents\Alphanumerics\alphanumerics\PhaseVocoder\Resample\VS2013-project\Resample\bin\Debug\Resample.pdb
+C:\Users\Øyvind\Documents\Alphanumerics\alphanumerics\PhaseVocoder\Resample\VS2013-project\Resample\obj\Debug\Resample.csprojResolveAssemblyReference.cache
+C:\Users\Øyvind\Documents\Alphanumerics\alphanumerics\PhaseVocoder\Resample\VS2013-project\Resample\obj\Debug\Resample.dll
+C:\Users\Øyvind\Documents\Alphanumerics\alphanumerics\PhaseVocoder\Resample\VS2013-project\Resample\obj\Debug\Resample.pdb

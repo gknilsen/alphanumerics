@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="50cd0e35-f615-47e0-8729-549560e860ae" Title="Resample" Url="html/N_Resample.htm">
+    <HelpTOCNode Id="61ddcf38-2a09-40d9-87af-695498dd740f" Title="FilterBuilder Class" Url="html/T_Resample_FilterBuilder.htm">
+      <HelpTOCNode Id="baba8920-f9f6-421e-9882-7403174bef20" Title="FilterBuilder Methods" Url="html/Methods_T_Resample_FilterBuilder.htm">
+        <HelpTOCNode Title="HammingFilter Method " Url="html/M_Resample_FilterBuilder_HammingFilter.htm" />
+        <HelpTOCNode Title="HammingWindow Method " Url="html/M_Resample_FilterBuilder_HammingWindow.htm" />
+        <HelpTOCNode Title="KaiserFilter Method " Url="html/M_Resample_FilterBuilder_KaiserFilter.htm" />
+        <HelpTOCNode Title="KaiserWindow Method " Url="html/M_Resample_FilterBuilder_KaiserWindow.htm" />
+        <HelpTOCNode Title="LowpassSinc Method " Url="html/M_Resample_FilterBuilder_LowpassSinc.htm" />
+        <HelpTOCNode Title="MBessel0 Method " Url="html/M_Resample_FilterBuilder_MBessel0.htm" />
+        <HelpTOCNode Title="Sinc Method " Url="html/M_Resample_FilterBuilder_Sinc.htm" />
+        <HelpTOCNode Title="WindowedSinc Method " Url="html/M_Resample_FilterBuilder_WindowedSinc.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5e011dd6-74e3-4c83-8d2a-01c2e7105306" Title="Resampler Class" Url="html/T_Resample_Resampler.htm">
+      <HelpTOCNode Id="fc8e4e63-0f7e-42ee-b202-b9198e58ba51" Title="Resampler Constructor " Url="html/Overload_Resample_Resampler__ctor.htm">
+        <HelpTOCNode Title="Resampler Constructor (UInt32, UInt32)" Url="html/M_Resample_Resampler__ctor.htm" />
+        <HelpTOCNode Title="Resampler Constructor (UInt32, UInt32, Double[])" Url="html/M_Resample_Resampler__ctor_2.htm" />
+        <HelpTOCNode Title="Resampler Constructor (UInt32, UInt32, UInt32)" Url="html/M_Resample_Resampler__ctor_3.htm" />
+        <HelpTOCNode Title="Resampler Constructor (UInt32, UInt32, Double, UInt32, Double)" Url="html/M_Resample_Resampler__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ffb0628d-c592-4e03-905f-f6e25f408bc0" Title="Resampler Methods" Url="html/Methods_T_Resample_Resampler.htm">
+        <HelpTOCNode Title="Resample Method " Url="html/M_Resample_Resampler_Resample.htm" />
+        <HelpTOCNode Title="ResampleContinuous Method " Url="html/M_Resample_Resampler_ResampleContinuous.htm" />
+        <HelpTOCNode Title="ResetFilter Method " Url="html/M_Resample_Resampler_ResetFilter.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
